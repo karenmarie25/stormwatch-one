@@ -1,0 +1,1 @@
+console.log("StormWatch One is ready!");
